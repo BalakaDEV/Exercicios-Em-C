@@ -5,33 +5,33 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-//static void pesoideal(float alt, char sexo) {
-//	float conta;
-//
-//	if (sexo == 'M') {
-//		conta = 72.7 * alt - 58;
-//		printf("Seu peso ideal é: %.2f\n", conta); 
-//	}
-//	else if (sexo == 'F') {
-//		conta = 62.1 * alt - 44.7;
-//		printf("Seu peso ideal é: %.2f\n", conta);
-//	}
-//	else {
-//		printf("Sexo inválido! Por favor, insira 'M' ou 'F'.\n");
-//	}
-//}
-//
-//int main() {
-//	float altura;
-//	char sex;
-//
-//	printf("Insira sua altura: ");
-//	scanf("%f", &altura);
-//
-//	printf("Insira seu sexo (M/F): ");
-//	scanf(" %c", &sex); // Espaço antes do %c para ignorar qualquer caractere de nova linha restante
-//
-//	pesoideal(altura, sex);
-//
-//	return 0;
-//}
+static void pesoideal(float alt, char sexo) {
+	float conta;
+
+	if (sexo == 'M') {
+		conta = 72.7 * alt - 58;
+		printf("Seu peso ideal é: %.2f\n", conta); 
+	}
+	else if (sexo == 'F') {
+		conta = 62.1 * alt - 44.7;
+		printf("Seu peso ideal é: %.2f\n", conta);
+	}
+	else {
+		printf("Sexo inválido! Por favor, insira 'M' ou 'F'.\n");
+	}
+}
+
+int main() {
+	float altura;
+	char sex;
+
+	printf("Insira sua altura: ");
+	scanf("%f", &altura);
+
+	printf("Insira seu sexo (M/F): ");
+	scanf(" %c", &sex); // Espaço antes do %c para ignorar qualquer caractere de nova linha restante
+
+	pesoideal(altura, sex);
+
+	return 0;
+}
