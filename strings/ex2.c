@@ -1,3 +1,7 @@
+// Um professor gostaria de saber dentre os nomes de seus 50 alunos, aqueles que compartilham o primeiro nome, ou seja, quem é xará de quem. 
+// Portanto, faça um programa que leia os nomes de 50 estudantes, 
+// e indique quais deles possuem seu xará na turma.
+
 #include <stdio.h>
 #include <string.h>
 
