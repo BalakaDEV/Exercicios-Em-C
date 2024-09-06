@@ -1,5 +1,5 @@
 # Sobre:
-- Esse é um grande repositório com uma lista de todos os exercícios que estou desenvolvendo na minha faculdade no curso de **Engenharia da Computação**, aqui eu trago os exercícios apenas com o enunciado e depois o mesmo com a resolução do código, esse repositório é para fins de estudos próprio e para a comunidade, buscando ajudar quem está começando na área e se possível dar algumas dicas de como resolver de forma mais facilitada alguns problemas na linguagem C!
+- Esse é um grande repositório com uma lista de todos os exercícios que estou desenvolvendo na minha faculdade no curso de **Engenharia da Computação**, aqui eu trago os exercícios com o enunciado e depois o mesmo com a resolução do código, esse repositório é para fins de estudos próprio e para a comunidade, buscando ajudar quem está começando na área e se possível dar algumas dicas de como resolver de forma mais facilitada alguns problemas na linguagem C!
 
 ## Informações
 
